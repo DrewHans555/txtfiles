@@ -1,12 +1,15 @@
 # Essential Linux Programs
 Storing config files in my [dotfiles](https://github.com/DrewHans555/dotfiles/) repo turned out to be a really great idea. It saves me time when setting up a new system and it acts as a single source of config-truth across all my existing systems & VMs. To further simplify setting up new systems I decided to write this text file listing what I consider to be essential linux programs. Most of these are obvious choices but listing them out like this is convenient. Your mileage may vary.
 
+Note: this list does not contain programs installed by default on most Linux distros.
+
 #### Command-line Programs
 - [git](https://git-scm.com/)
 - [glances](https://nicolargo.github.io/glances/)
 - [htop](https://github.com/hishamhm/htop)
 - [mkvtoolnix](https://mkvtoolnix.download/)
 - [neofetch](https://github.com/dylanaraps/neofetch)
+- [nmap](https://nmap.org/)
 - [the sleuth kit](https://www.sleuthkit.org/sleuthkit/)
 - [vim](https://www.vim.org/)
 
@@ -22,6 +25,9 @@ Storing config files in my [dotfiles](https://github.com/DrewHans555/dotfiles/) 
 
 - Disk Partition Manager
   - [gparted](https://gparted.org/)
+
+- Disk Space Cleaner
+  - [BleachBit](https://www.bleachbit.org/)
 
 - eBook Manager
   - [calibre](https://calibre-ebook.com/)
