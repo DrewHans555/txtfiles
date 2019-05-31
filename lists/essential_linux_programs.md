@@ -32,8 +32,9 @@ Note: this list does not contain programs installed by default on most Linux dis
 - eBook Manager
   - [calibre](https://calibre-ebook.com/)
 
-- Image Editor
+- Image Editors
   - [Gimp - GNU Image Manipulation Program](https://www.gimp.org/)
+  - [Inkscape](https://inkscape.org/)
 
 - ISO-Image Flasher
   - [balenaEtcher](https://github.com/balena-io/etcher)
@@ -54,6 +55,9 @@ Note: this list does not contain programs installed by default on most Linux dis
 
 - Video Editor
   - [kdenlive](https://kdenlive.org/en/)
+
+- Video Encoder/Exporter
+  - [HandBrake](https://handbrake.fr/)
 
 - Video Player
   - [VLC Media Player](https://www.videolan.org/index.html)
