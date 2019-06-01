@@ -1,0 +1,2 @@
+# list
+>"A series of names or other items written or printed together in a meaningful grouping or sequence so as to constitute a record." - Dictionary.com
