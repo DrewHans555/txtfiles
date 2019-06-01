@@ -1,4 +1,4 @@
-#Android Apps
+# Android Apps
 This list contains Android apps I think are great. I rarely switch mobile devices so this list will be less useful than the one I made for Linux programs. Still, having a data backup is always a good idea.
 
 #### Essential apps for every device
