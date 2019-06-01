@@ -4,6 +4,7 @@ Storing config files in my [dotfiles](https://github.com/DrewHans555/dotfiles/) 
 Note: this list does not contain programs installed by default on most Linux distros.
 
 #### Command-line Programs
+- [dat](https://github.com/datproject/dat)
 - [git](https://git-scm.com/)
 - [glances](https://nicolargo.github.io/glances/)
 - [htop](https://github.com/hishamhm/htop)
@@ -14,54 +15,42 @@ Note: this list does not contain programs installed by default on most Linux dis
 - [vim](https://www.vim.org/)
 
 #### Apps
-- Audio Editor
-  - [Audacity](https://www.audacityteam.org/)
+- Audio Editor: [Audacity](https://www.audacityteam.org/)
 
-- Bittorrent Client
-  - [qBittorrent](https://www.qbittorrent.org/)
+- Bittorrent Client: [qBittorrent](https://www.qbittorrent.org/)
 
-- Cloud File Storage
-  - [Dropbox](https://www.dropbox.com/)
+- Cloud File Storage: [Dropbox](https://www.dropbox.com/)
 
-- Disk Partition Manager
-  - [gparted](https://gparted.org/)
+- Disk Partition Manager: [gparted](https://gparted.org/)
 
-- Disk Space Cleaner
-  - [BleachBit](https://www.bleachbit.org/)
+- Disk Space Cleaner: [BleachBit](https://www.bleachbit.org/)
 
-- eBook Manager
-  - [calibre](https://calibre-ebook.com/)
+- eBook Manager: [calibre](https://calibre-ebook.com/)
 
-- Image Editors
+- Image Editors:
   - [Gimp - GNU Image Manipulation Program](https://www.gimp.org/)
   - [Inkscape](https://inkscape.org/)
 
-- ISO-Image Flasher
-  - [balenaEtcher](https://github.com/balena-io/etcher)
+- ISO-Image Flasher: [balenaEtcher](https://github.com/balena-io/etcher)
 
-- Music Player & Library Organizer
-  - [Clementine](https://www.clementine-player.org/)
+- Music Player & Library Organizer: [Clementine](https://www.clementine-player.org/)
 
-- Office Suite
-  - [LibreOffice](https://www.libreoffice.org/)
+- Office Suite: [LibreOffice](https://www.libreoffice.org/)
 
-- Password Managers
+- Password Managers:
   - [KeePass2](https://keepass.info/)
   - [KeePassXC](https://keepassxc.org/)
 
-- Text Editors & IDEs
+- Text Editors & IDEs:
   - [SublimeText3](https://www.sublimetext.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
-- Video Editor
-  - [kdenlive](https://kdenlive.org/en/)
+- Video Editor: [kdenlive](https://kdenlive.org/en/)
 
-- Video Encoder/Exporter
-  - [HandBrake](https://handbrake.fr/)
+- Video Encoder/Exporter: [HandBrake](https://handbrake.fr/)
 
-- Video Player
-  - [VLC Media Player](https://www.videolan.org/index.html)
+- Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
-- Web Browsers
+- Web Browsers:
   - [Chromium](https://www.chromium.org/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)
