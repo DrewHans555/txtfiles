@@ -4,7 +4,10 @@ Storing config files in my [dotfiles](https://github.com/DrewHans555/dotfiles/) 
 Note: this list does not contain programs installed by default on most Linux distros.
 
 #### Command-line Programs
+- [conky](https://github.com/brndnmtthws/conky)
 - [dat](https://github.com/datproject/dat)
+- [dos2unix](http://dos2unix.sourceforge.net/)
+- [ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer)
 - [git](https://git-scm.com/)
 - [glances](https://nicolargo.github.io/glances/)
 - [htop](https://github.com/hishamhm/htop)
