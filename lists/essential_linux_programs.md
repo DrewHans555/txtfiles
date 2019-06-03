@@ -5,6 +5,7 @@ Note: this list does not contain programs installed by default on most Linux dis
 
 #### Command-line Programs
 - [conky](https://github.com/brndnmtthws/conky)
+- [curl](https://curl.haxx.se/)
 - [dat](https://github.com/datproject/dat)
 - [dos2unix](http://dos2unix.sourceforge.net/)
 - [ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer)
@@ -16,6 +17,7 @@ Note: this list does not contain programs installed by default on most Linux dis
 - [nmap](https://nmap.org/)
 - [the sleuth kit](https://www.sleuthkit.org/sleuthkit/)
 - [vim](https://www.vim.org/)
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/)
 
 #### Apps
 - Audio Editor: [Audacity](https://www.audacityteam.org/)
