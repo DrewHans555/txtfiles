@@ -2,7 +2,10 @@
 
 Design patterns are elegant solutions to repeating problems in software development.
 
-A design pattern shows you how to structure objects in your system and how those objects should talk to each other. These patterns were made famous by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (also known as Gang Of Four) in their 1994 book *Design Patterns: Elements of Reusable Object-Oriented Software*. One of the main benefits of using design pattens is to help programmers communication with other programmers at a higher, more abstract level.
+A design pattern shows you how to structure objects in your system and how those objects should talk to each other. These patterns were made famous by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (also known as Gang Of Four) in their 1994 book *Design Patterns: Elements of Reusable Object-Oriented Software*[1]. One of the main benefits of using design pattens is to help programmers communication with other programmers at a higher, more abstract level.
+
+Warning: Inappropriate use of patterns may unnecessarily increase complexity.[2]
+
 
 The GOF patterns include 23 design patterns in three categories: Creational, Structural, & Behavioral.
 
@@ -105,5 +108,7 @@ Behavioral design patterns describe common communication patterns among objects.
 
 ### Relevant Sources
 1. [Design Patterns Elements of Reusable Object-Oriented Software][1] by Gang Of Four (Gamma, Helm, Johnson, & Vlissides)
+2. [Code Complete: A Practical Handbook of Software Construction, 2nd Edition.][2] by Steve McConnell
 
 [1]:https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
+[2]:https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/
