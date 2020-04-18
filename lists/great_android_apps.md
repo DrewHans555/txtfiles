@@ -4,12 +4,12 @@ This list contains Android apps I think are great. I rarely switch mobile device
 #### Essential apps for every device
 - [Ampere](https://play.google.com/store/apps/details?id=com.gombosdev.ampere)
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [Bromite](https://www.bromite.org/)
 - [Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
 - [Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 - [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 - [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 - [F-Stop](https://play.google.com/store/apps/details?id=com.fstop.photo)
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - [Hi-Q](https://play.google.com/store/apps/details?id=com.hiqrecorder.free)
 - [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
